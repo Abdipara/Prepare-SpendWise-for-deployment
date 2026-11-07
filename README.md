@@ -11,8 +11,8 @@
 * **Netlify** – For continuous deployment and hosting the live application.
 
 ## Links
-* **GitHub Repository:** [SpendWise Repository](https://github.com/Abdipara/SpendWise) *(Update with your exact repo link)*
-* **Live Netlify Website URL:** [SpendWise Live App](https://your-site-name.netlify.app) *(Update with your Netlify site URL)*
+* **GitHub Repository:** [SpendWise Repository](https://github.com/Abdipara/Prepare-SpendWise-for-deployment.git) 
+* **Live Netlify Website URL:** [SpendWise Live App](https://stellular-seahorse-536ce4.netlify.app) 
 
 ## Deployment Process Summary
 The project was deployed using the following steps:
