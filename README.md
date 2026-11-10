@@ -12,7 +12,7 @@
 
 ## Links
 * **GitHub Repository:** [SpendWise Repository](https://github.com/Abdipara/Prepare-SpendWise-for-deployment.git) 
-* **Live Netlify Website URL:** [SpendWise Live App](https://stellular-seahorse-536ce4.netlify.app) 
+* **Live Netlify Website URL:** [SpendWise Live App](https://abdiphara.netlify.app) 
 
 ## Deployment Process Summary
 The project was deployed using the following steps:
